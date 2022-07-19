@@ -1,4 +1,8 @@
 # orbithangar-installer
+
+Note : After recent migration of addons, this no longer works. 
+Check out orb installer instead! - https://orbiter-mods.com/orb.html 
+
 A python script to install Orbiter addons and its dependencies found in orbithangar.com
 Just paste the addon's url and it will download+extract the addon and also all the other orbithangar addons mentioned in its decription page. This process repeats recursively.     
 
